@@ -1,0 +1,11 @@
+This is the source code of the IP Tool!
+Shall you open the menu with the batch file instead of the exe
+Nothing will happen
+If you know what you are doing go inside of HOLY MENU.bat and change what opens up :D
+I recommend just opening HOLYMENU - OPEN ME.exe
+As it is already configured for you :D
+
+Discord: TTheHolyOne#1642
+Discord Server: https://discord.gg/dVVcDftrDS
+
+Enjoy :D
