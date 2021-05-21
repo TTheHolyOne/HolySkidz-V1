@@ -1,4 +1,4 @@
-rem IP LOOKUP
+
 rem MADE BY TTHEHOLYONE#1642
 
 @echo off

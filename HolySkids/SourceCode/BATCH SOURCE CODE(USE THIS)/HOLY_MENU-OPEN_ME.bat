@@ -49,13 +49,13 @@ if "%choice%"=="1" echo  [q] Quit
 if "%choice%"=="1" echo.
 if "%choice%"=="1" set /p choices= Choice : 
 if "%choice%"=="1" echo.
-if "%choice%"=="2" start HOLY_MENU-OPEN_ME.exe
+if "%choice%"=="2" start HOLY_MENU-OPEN_ME.bat
 if "%choice%"=="2" exit
 if "%choice%"=="3" exit
-if "%choices%"=="1" start HolyPingerV1.exe
-if "%choices%"=="2" start HolyIPSearchV1.exe
-if "%choices%"=="3" start HolyIPV1.exe
-if "%choices%"=="4" start HolyDDOSV1.exe
+if "%choices%"=="1" start HolyPingerV1.bat
+if "%choices%"=="2" start HolyIPSearchV1.bat
+if "%choices%"=="3" start HolyIPV1.bat
+if "%choices%"=="4" start HolyDDOSV1.bat
 if "%choices%"=="5" GoTo information
 if "%choices%"=="q" start
 if "%choices%"=="q" exit
@@ -72,5 +72,5 @@ echo  Join my Discord Server: https://discord.gg/dVVcDftrDS : For source code!
 echo  I hope you enjoy this tool, Thanks for Downloading!
 echo.
 pause
-start HOLY_MENU-OPEN_ME.exe
+start HOLY_MENU-OPEN_ME.bat
 
