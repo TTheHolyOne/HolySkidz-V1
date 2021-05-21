@@ -49,7 +49,7 @@ if "%choice%"=="1" echo  [q] Quit
 if "%choice%"=="1" echo.
 if "%choice%"=="1" set /p choices= Choice : 
 if "%choice%"=="1" echo.
-if "%choice%"=="2" start OPENME.bat
+if "%choice%"=="2" start HOLY_MENU-OPEN_ME.exe
 if "%choice%"=="2" exit
 if "%choice%"=="3" exit
 if "%choices%"=="1" start HolyPingerV1.exe
@@ -72,5 +72,5 @@ echo  Join my Discord Server: https://discord.gg/dVVcDftrDS : For source code!
 echo  I hope you enjoy this tool, Thanks for Downloading!
 echo.
 pause
-start OPENME.bat
+start HOLY_MENU-OPEN_ME.exe
 
