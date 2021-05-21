@@ -56,21 +56,10 @@ if "%choices%"=="1" start HolyPingerV1.bat
 if "%choices%"=="2" start HolyIPSearchV1.bat
 if "%choices%"=="3" start HolyIPV1.bat
 if "%choices%"=="4" start HolyDDOSV1.bat
-if "%choices%"=="5" GoTo information
+if "%choices%"=="5" start info.txt
+if "%choices%"=="5" start HOLY_MENU-OPEN_ME.bat
 if "%choices%"=="q" start
 if "%choices%"=="q" exit
 
-:information
-cls
-set /a num=(%Random%%%9)+1
-color %num%
-echo.
-echo  This is all for educationol purposes only and the Developer does not take any Charges for what you have done with this tool. 
-echo  Ascii Art From: https://www.messletters.com/en/big-text/
-echo  My Discord is TTheHolyOne#1642, add me if you see any bugs or if you just want to talk :D.
-echo  Join my Discord Server: https://discord.gg/dVVcDftrDS : For source code!
-echo  I hope you enjoy this tool, Thanks for Downloading!
-echo.
-pause
-start HOLY_MENU-OPEN_ME.bat
+
 
