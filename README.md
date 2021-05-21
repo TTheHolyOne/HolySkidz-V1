@@ -9,7 +9,7 @@ Open Batch Source Code folder to look at the code :D
 Open EXE Source Code folder to look at the code for when I convert it into a exe:D 
 <br>
 <h2>To Use:</h2>
-Open Batch Source Code and open HOLY_MENU-OPEN_ME.bat to use the tools
+Open Source Code then Batch Source Code and open HOLY_MENU-OPEN_ME.bat to use the tools
 <br>
 Or just go back to the main folder and open the exe's but I havent done them yet
 <br>
